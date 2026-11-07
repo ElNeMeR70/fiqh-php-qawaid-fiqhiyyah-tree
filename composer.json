@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/fiqh-php-qawaid-fiqhiyyah-tree",
+  "description": "Five Major Legal Maxims (Al-Qawa'id Al-Fiqhiyyah) Decision Tree (شجرة القواعد الفقهية الخمس الكبرى وتطبيقاتها)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
